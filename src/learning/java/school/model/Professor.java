@@ -1,9 +1,9 @@
-package learning.java.school;
+package learning.java.school.model;
 
 
 
 
-class Professor {
+public class Professor {
     private String name;
 
 

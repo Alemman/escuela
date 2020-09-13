@@ -1,10 +1,10 @@
-package learning.java.school;
+package learning.java.school.model;
 
 
 
 
 
-class Student {
+public class Student {
     private String name;
     private String code;
 
